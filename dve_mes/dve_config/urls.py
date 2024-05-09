@@ -37,10 +37,12 @@ from web.views import *
 from django.conf import settings
 from django.conf.urls.static import static
 
-TITLE = "서울소프트 신규 MES 프로젝트 API"
+TITLE = "서울소프트 통합 MES를 위한 프로젝트 API"
 VERSION = "v0.1"
 DESCRIPTION = """
  # 1차개발 목표 : WMS
+ # 2차개발 목표 : MES
+ # 3차개발 목표 : ERP
 """
 
 # drf yasg
